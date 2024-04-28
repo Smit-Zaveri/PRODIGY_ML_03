@@ -12,6 +12,11 @@ This Python script performs image classification using the Support Vector Machin
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn tensorflow opencv-python plotly missingno keras scikit-image
 ```
+OR
+```bash
+pip install -r requirements.txt
+```
+
 3. Download the dataset containing images of cats and dogs.
 4. Extract the dataset and place it in the appropriate directory.
 5. Run the script.
