@@ -1,0 +1,10 @@
+opencv-python
+matplotlib
+missingno
+numpy
+pandas
+plotly
+seaborn
+scikit-image
+scikit-learn
+tensorflow
