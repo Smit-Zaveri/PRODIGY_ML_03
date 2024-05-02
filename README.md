@@ -32,7 +32,7 @@ pip install -r requirements.txt
 - Finally, the trained model is used to classify new images of cats and dogs.
 
 ## Video
-[Video](03.mp4)
+![Video](03.mp4)
 
 ## Output
 The script generates several outputs:
