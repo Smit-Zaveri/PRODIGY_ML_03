@@ -32,7 +32,9 @@ pip install -r requirements.txt
 - Finally, the trained model is used to classify new images of cats and dogs.
 
 ## Video
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](03.mp4)
+https://github.com/Smit-Zaveri/PRODIGY_ML_03/assets/104667864/f32396a0-e514-4fb6-a048-a69d8e66159a
+
+
 
 ## Output
 The script generates several outputs:
