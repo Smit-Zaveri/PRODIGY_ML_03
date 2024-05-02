@@ -34,8 +34,6 @@ pip install -r requirements.txt
 ## Video
 https://github.com/Smit-Zaveri/PRODIGY_ML_03/assets/104667864/f32396a0-e514-4fb6-a048-a69d8e66159a
 
-
-
 ## Output
 The script generates several outputs:
 1. Visualization of sample images of cats and dogs from the dataset.
